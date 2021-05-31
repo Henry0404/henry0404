@@ -1,5 +1,7 @@
 ### Hi my name is Henry Romero 👋
 
+
+
 <!--
 **Henry0404/henry0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱  Tecnologías y herramientas ---- Technologies and Tools
+Python  JavaScript  React  Flask  Bootstrap
+HTML  CSS  Git  GitHub  Visual Studio Code 
