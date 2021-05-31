@@ -1,5 +1,6 @@
 ### Hi my name is Henry Romero 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry0404&show_icons=true&theme=radical)
 
 
 <!--
